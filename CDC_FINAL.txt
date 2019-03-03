@@ -1,8 +1,8 @@
 
 Col1                                               Col2                                             
 ----                                               ----                                             
-BALAPEDB1-2-NEW_VI21-22_VI19-20_0967_MV            3194919                                          
 BALAPEDB1-NEW_VI21-22_BOOT_0967_MV                 81921                                            
+New server 				           81921
 BALAPEDB2-NEW_VI19-20_BOOT_0967_MV                 81921                                            
 CDC-Linux-Non-Prod-Cluster-01_0967_MV              26214405                                         
 CDC-Linux-Prod-Cluster-01_0967_MV                  141557787                                        
